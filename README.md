@@ -1,6 +1,6 @@
 **IP Validator**
 
-A Python script to validate IPv4 addresses using regular expressions.
+A Python script to validate IPv4 addresses using regular expressions. This will validate and ignore the Network IP on the subnet.
 
 **Features**
 
